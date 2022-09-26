@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 - Practical 1 - Dannielle Jones
-Broken program to determine score status
+Program to determine score status.
 """
 
 score = float(input("Enter score: "))
