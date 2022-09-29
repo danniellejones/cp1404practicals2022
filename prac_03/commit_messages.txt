@@ -1,0 +1,35 @@
+Functions and re-usability Example
+
+
+def main():
+    password = "Jane"
+    print_stars(len(password))
+    print_stars(8)
+
+
+def print_stars(length_integer):
+    "*" * length_integer
+
+
+Commit Messages
+
+    Start Project ---
+    Initial commit
+
+    Add new files ---
+    Add score program
+    Add score, score_menu programs
+
+    Modify ---
+    Modify score program updated to use constants
+    Modify score to use constants and score_menu to be menu-driven
+    Modify score to use functions
+    Modify determine_result in score program
+    Update determine_result to return result
+    Refactor test_01 to tester
+    Refactor variable names in score program
+
+    Comments ---
+    Modify docstrings and comments in score program
+    Update determine_result function docstring
+
