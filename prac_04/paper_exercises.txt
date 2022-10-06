@@ -1,0 +1,14 @@
+Exercises to complete on Paper
+
+Write a program that tells a user whether their dog is a small, medium or large dog. A small dog weighs less than
+10kg and a large dog weighs over 25kg.
+
+Write a program that asks a user for a number between 1-10 until you get valid input. Then print the valid number.
+
+Write "High Distinction" to a file called 'results.txt'.
+
+Read and print all lines from a file called 'results.txt'.
+
+
+
+

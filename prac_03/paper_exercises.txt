@@ -1,0 +1,13 @@
+Exercise 1
+Write a menu-driven program to get a valid integer between 1 and 10.
+The user would like to select to either times that integer by 20 or subtract 10.
+
+
+Exercise 2
+A Café would like to calculate how many sales they made in a day.
+Write a program that continuously gets the sales for the day until the user enters 0.
+Then print the total sales for that day.
+
+Extend your Café program. If the total sales for the day is greater than 100 give print good day.
+If it is 50 or lower print bad day.
+
